@@ -2,6 +2,26 @@
 
 I like to build things to solve problems. 
 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="./icons/c.svg" width="40" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img src="./icons/cplusplus.svg" width="40" />
+</a>
+
+<a href="https://fr.wikipedia.org/wiki/JavaScript">
+  <img src="./icons/javascript.svg" width="40" />
+</a>
+
+<a href="https://fr.wikipedia.org/wiki/HTML5">
+  <img src="./icons/html5.svg" width="40" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/CSS">
+  <img src="./icons/css.svg" width="40" />
+</a>
+
 
 <!-- 
 
