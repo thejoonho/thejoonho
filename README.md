@@ -1,14 +1,14 @@
-## Hi there 👋
+## Hey, I'm Joonho 👋
+
+I like to build things to solve problems. 
+
 
 <!-- 
-
-Bio: I like to build things to solve problems. 
 
 Tools: Altium, GitHub 
 Code Languages: C, C++, HTML, CSS, Javascript 
 
 --> 
-
 
 
 <!--
