@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+<!-- 
+
+Bio: I like to build things to solve problems. 
+
+Tools: Altium, GitHub 
+Code Languages: C, C++, HTML, CSS, Javascript 
+
+--> 
+
+
+
 <!--
 **thejoonho/thejoonho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
