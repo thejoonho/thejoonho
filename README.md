@@ -15,6 +15,7 @@
 > - Keyboard Drone Remote Control (Mar 2025)
 > - Low Voltage Battery Board (Jan 2025)
 > - Ultrasonic Radar System (Sept 2024 - Nov 2024)
+> - Reversi Board Game (Mar 2024)
 
 #### Programming Languages I work with: 
 <p>
