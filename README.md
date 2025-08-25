@@ -9,6 +9,13 @@
 #### Projects: 
 - 📌 All pinned repositories are projects I've worked on
 
+> [!NOTE]
+> Following projects will be uploaded soon:
+> - Flexible Radio Transeiver (Jan 2025 - Apr 2025)
+> - Keyboard Drone Remote Control (Mar 2025)
+> - Low Voltage Battery Board (Jan 2025)
+> - Ultrasonic Radar System (Sept 2024 - Nov 2024)
+
 #### Programming Languages I work with: 
 <p>
   <img src="./icons/c.svg" width="40" />
