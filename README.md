@@ -11,7 +11,6 @@
 
 > [!NOTE]
 > Following projects will be uploaded soon:
-> - Flexible Radio Transeiver (Jan 2025 - Apr 2025)
 > - Keyboard Drone Remote Control (Mar 2025)
 > - Low Voltage Battery Board (Jan 2025)
 > - Ultrasonic Radar System (Sept 2024 - Nov 2024)
