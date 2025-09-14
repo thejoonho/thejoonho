@@ -4,7 +4,7 @@
 - 🦾 I like building things to solve problems
 - 🧠 I'm interested in Brain Computer Interface, Wireless Systems, & Quantum Computing
 - ⚡️ I'm studying Electrical Engineering at University of Toronto
-- 🌱 I'm learning how to build my own personal website during my free time!
+- 🌱 I'm currently looking for a 12-16 Month Internship (Available from May 2026)
 
 #### Projects: 
 - 📌 All pinned repositories are projects I've worked on
