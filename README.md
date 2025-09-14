@@ -10,10 +10,11 @@
 - 📌 All pinned repositories are projects I've worked on
 
 > [!NOTE]
-> Following projects will be uploaded soon:
-> - FPGA Drone Remote Control (Mar 2025)
+> Following projects are currently being worked on to make public.
+> - Radio Receiver (Jan 2025 - Apr 2025)
+> - FPGA Drone Remote Controller (Mar 2025)
 > - Ultrasonic Radar System (Sept 2024 - Nov 2024)
-> - Reversi Board Game (Mar 2024)
+> - Reversi Bot (Mar 2024)
 
 #### Programming Languages I work with: 
 <p>
