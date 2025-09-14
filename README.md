@@ -11,7 +11,7 @@
 
 > [!NOTE]
 > Following projects will be uploaded soon:
-> - FPGA Dronte Remote Control (Mar 2025)
+> - FPGA Drone Remote Control (Mar 2025)
 > - Ultrasonic Radar System (Sept 2024 - Nov 2024)
 > - Reversi Board Game (Mar 2024)
 
