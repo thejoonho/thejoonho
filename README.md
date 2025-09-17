@@ -2,7 +2,7 @@
 
 #### About Me: 
 - 🦾 I like building things to solve problems
-- 🧠 I'm interested in Brain Computer Interface, Robotics, and Wireless Systems
+- 🧠 I'm interested in Brain Computer Interface, Robotics, Wireless Systems, and Photonic Devices
 - ⚡️ I'm studying Electrical Engineering at University of Toronto
 - 🌱 I'm currently looking for a 12-16 month internship (Available from May 2026)
 
