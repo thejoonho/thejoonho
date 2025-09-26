@@ -4,7 +4,7 @@
 - 🦾 I like building things to solve problems
 - 🧠 I'm interested in Brain Computer Interface, Robotics, Wireless Systems, and Photonic Devices
 - ⚡️ I'm studying Electrical Engineering at University of Toronto
-- 🌱 I'm currently looking for a 12-16 month internship (Available from May 2026) or a 4 month internship (Available from May 2026)
+- 🌱 I'm currently looking for a 12-16 month or a 4 month internship (Available from May 2026)
 
 #### Projects: 
 - 📌 All pinned repositories are projects I've worked on
