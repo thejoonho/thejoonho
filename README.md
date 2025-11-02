@@ -4,7 +4,6 @@
 - 🦾 I like building things to solve problems
 - 🧠 I'm interested in Wireless Systems, Photonic Devices, & Quantum Computers
 - ⚡️ I'm studying Electrical Engineering at University of Toronto
-- 🌱 I'm currently looking for a 12 month internship (Available from Sept 2026)
 
 #### Projects: 
 - 📌 All pinned repositories are projects I've worked on
