@@ -8,11 +8,6 @@
 #### Projects: 
 - 📌 All pinned repositories are projects I've worked on
 
-> [!NOTE]
-> Projects that are currently being worked to be public in the following order.
-> 1. Radio Receiver (Jan 2025 - Apr 2025)
-> 2. FPGA Drone Remote Controller (Mar 2025)
-
 #### Programming Languages I work with: 
 <p>
   <img src="./icons/c.svg" width="40" />
