@@ -2,7 +2,7 @@
 
 #### About Me: 
 - 🦾 I like building things to solve problems
-- 🛰️ I'm interested in Electromagnetism, RF and Microwave Systems, & Quantum Computers
+- 🛰️ I'm interested in Electromagnetics, RF and Microwave Systems, & Quantum Computers
 - ⚡️ I'm studying Electrical Engineering at University of Toronto
 
 #### Projects: 
