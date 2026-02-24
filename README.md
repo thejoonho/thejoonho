@@ -2,7 +2,7 @@
 
 #### About Me: 
 - 🦾 I like building things to solve problems
-- 🛰️ I'm interested in Electromagnetics, RF and Microwave Systems, Optics, and Quantum Computing
+- 🛰️ I’m a third-year Electrical Engineering student at the University of Toronto who enjoys building things to solve real problems. My academic interests include RF/Microwave Systems, Optics and Quantum Computing ⚡️
 - ⚡️ I'm studying Electrical Engineering at University of Toronto
 
 #### Projects: 
