@@ -1,8 +1,7 @@
 ## Hey, I'm Joonho 👋
 
 #### About Me: 
-- 🦾 I like building things to solve problems
-- 🛰️ I’m a third-year Electrical Engineering student at the University of Toronto who enjoys building things to solve real problems. My interests include Electromagnetics (RF to Gamma Rays!), Signal Processing, and Control Systems :)
+- 🛰️ I’m an Electrical Engineering student at the University of Toronto who enjoys building things to solve real problems. My interests include Electromagnetics (RF to Gamma Rays!), Signal Processing, and Control Systems :)
 - 🌱 I'm currently debating whether I should make my own personal website lol
 
 #### Projects: 
